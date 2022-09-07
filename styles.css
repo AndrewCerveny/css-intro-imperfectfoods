@@ -1,7 +1,5 @@
-/* FONT
-font-family: 'Yanone Kaffeesatz', sans-serif; */
 
-#title {
+.title {
   font-size: 40px;
   color: #453D3D;
   font-family: 'Yanone Kaffeesatz', sans-serif
@@ -11,7 +9,7 @@ font-family: 'Yanone Kaffeesatz', sans-serif; */
   padding: 0;
   border: 0;
 }
-h2{
+.create-account {
   font-size: 24px;
   text-align:left;
   font-weight:400;
@@ -21,7 +19,40 @@ h2{
   opacity:.8;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
-p {
+.delivery-date-title {
+  font-size: 24px;
+  text-align:left;
+  font-weight:400;
+  margin: 0
+  padding: 0 0 0 16.96;
+  border: 0;
+  opacity:.8;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+.customize-order {
+  font-size: 24px;
+  text-align:left;
+  font-weight:400;
+  margin: 0
+  padding: 0 0 0 16.96;
+  border: 0;
+  opacity:.8;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.shop-windows-title {
+  font-size: 24px;
+  text-align:left;
+  font-weight:400;
+  margin: 0
+  padding: 0 0 0 16.96;
+  border: 0;
+  opacity:.8;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+
+.first-para {
   font-family: 'Montserrat', sans-serif;
   opacity: .7;
   display:block;
@@ -30,10 +61,51 @@ p {
   margin-inline-start: 40px;
   margin-inline-end:0px;
 }
-img {
+.second-para {
+  font-family: 'Montserrat', sans-serif;
+  opacity: .7;
+  display:block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end:0px;
+}
+.third-para {
+  font-family: 'Montserrat', sans-serif;
+  opacity: .7;
+  display:block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end:0px;
+}
+
+.fourth-para {
+  font-family: 'Montserrat', sans-serif;
+  opacity: .7;
+  display:block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end:0px;
+}
+#check-mark-icon {
+    max-width: 5rem;
+}
+
+#food-icon {
+    max-width: 5rem;
+}
+
+#desktop-icon {
+    max-width: 5rem;
+}
+
+#calendar-icon {
   max-width: 5rem;
 }
-button{
+
+button {
   padding: 12px 56px;
   background: #B32274;
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -60,4 +132,6 @@ background color -> #B4E4E6
 text color -> #453D3D
 button color -> #B32274
 button text color -> white */
-font family para: 'Montserrat',sans-serif
+/* font family para: 'Montserrat',sans-serif */
+/* FONT
+font-family: 'Yanone Kaffeesatz', sans-serif; */
